@@ -153,28 +153,29 @@ The following analyses were performed:
 
 ![Salary](images/EDAVisualizations/Salary1.png)
 
-![Salary](images/EDAVisualization/Salary2.png)
+![Salary](images/EDAVisualizations/Salary2.png)
 
-![Salary](images/EDAVisualization/Salary3.png)
+![Salary](images/EDAVisualizations/Salary3.png)
 
-![Salary](images/EDAVisualization/Salary4.png)
+![Salary](images/EDAVisualizations/Salary4.png)
 
-![Salary](images/EDAVisualization/Salary5.png)
+![Salary](images/EDAVisualizations/Salary5.png)
 
 ---
 
 ### Top Companies by Interview Count
 
-![Interview](images/EDAVisualization/interview1.png)
+![Interview](images/EDAVisualizations/interview1.png)
 
-![Interview](images/EDAVisualization/interview2.png)
+![Interview](images/EDAVisualizations/interview2.png)
 
-![Interview](images/EDAVisualization/interview3.png)
+![Interview](images/EDAVisualizations/interview3.png)
+
 ---
 
 ### Correlation Heatmap
 
-![Correlation](images/EDAVisualization/corelation.png)
+![Correlation](images/EDAVisualizations/corelation.png)
 
 ---
 
