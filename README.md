@@ -99,13 +99,14 @@ The company data was collected directly from the AmbitionBox website using Pytho
 
 ### Screenshots
 
-![Web Scraping](images/WebScraping/WebScraping1.png)
 
-![Web Scraping](images/WebScraping/WebScraping2.png)
+![Web Scraping](images/webscraping/Webscraping1.png)
 
-![Web Scraping](images/WebScraping/Webscraping3.png)
+![Web Scraping](images/webscraping/Webscraping2.png)
 
-![Web Scraping](images/WebScraping/Scraped_data.png)
+![Web Scraping](images/webscraping/Webscraping3.png)
+
+![Scraped Data](images/webscraping/Scraped_data.png)
 
 ---
 
