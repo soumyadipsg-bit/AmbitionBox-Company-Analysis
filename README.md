@@ -126,7 +126,7 @@ Cleaning steps included:
 
 ![Cleaning](images/Data%20Cleaning/Data%20Cleaning1.png)
 
-![Cleaning](images/DataCleaning/DataCleaning2.png)
+![Cleaning](images/Data%20Cleaning/Data%20Cleaning2.png)
 
 ---
 
