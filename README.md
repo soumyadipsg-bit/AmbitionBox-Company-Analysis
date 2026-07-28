@@ -123,9 +123,9 @@ Cleaning steps included:
 
 ### Screenshots
 
-![Cleaning](images/data-cleaning/DataCleaning1.png)
+![Cleaning](images/DataCleaning/DataCleaning1.png)
 
-![Cleaning](images/data-cleaning/DataCleaning2.png)
+![Cleaning](images/DataCleaning/DataCleaning2.png)
 
 ---
 
