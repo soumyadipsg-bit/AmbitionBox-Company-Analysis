@@ -106,7 +106,7 @@ The company data was collected directly from the AmbitionBox website using Pytho
 
 ![Web Scraping](images/WebScraping/Webscraping%20img2.png)
 
-![Scraped Data](images/webscraping/Scraped_data.png)
+![Scraped Data](images/WebScraping/Scraped_data.png)
 
 ---
 
