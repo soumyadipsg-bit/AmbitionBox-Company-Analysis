@@ -151,7 +151,7 @@ The following analyses were performed:
 
 ### Salary Distribution
 
-![Salary](images/EDAVisualization/Salary1.png)
+![Salary](images/EDAVisualizations/Salary1.png)
 
 ![Salary](images/EDAVisualization/Salary2.png)
 
